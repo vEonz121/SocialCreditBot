@@ -1,3 +1,3 @@
 # SocialCreditBot
 
-This was not made by China
+This was not made by Winnie P.
