@@ -3,6 +3,13 @@
 ### A Discord Mod Bot that is Inspired by the Glorious Motherland 💃💃💃
 Utilizes a social credits system to determine bad behavior among server members. Moderate your chat with something that actually works! 😃
 
+## Table of Contents
+1. [Available Commands](#available_commands)
+2. [How To Run](#how_to_run)
+3. [Planned Features](#planned_features)
+4. [Demo](#demo)
+5. [Requirements](#requirements)
+
 ## Available Commands 💁‍♂️
 > **Prefix is `$`**
 
