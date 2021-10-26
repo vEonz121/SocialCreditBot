@@ -1,6 +1,9 @@
 import DiscordJS, { Intents } from "discord.js";
 import * as dotenv from "dotenv";
 import mysql from "mysql2";
+
+//TODO: create a new .env
+
 //col to const
 const ub_userID = "ub_userID";
 const ub_bal = "ub_bal";
