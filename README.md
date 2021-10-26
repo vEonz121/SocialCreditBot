@@ -29,4 +29,16 @@ node run
 # Demo 👨‍🦽
 ![image](https://user-images.githubusercontent.com/51939599/138870916-a67e1834-c36d-4334-bc43-0ee75ec27089.png)
 
+# Requirements ✔️
+A .env file lets you customize your individual working environment variables hidden from the public access when hosting the bot.
+You are required to create a .env file in the root directory which includes the following:
+```
+TOKEN= [paste your bot token here]
+DB_HOST= [paste your database host address]
+DB_USER= [paste your database username]
+DB_PWD= [paste your database password]
+DB_NAME= [paste the name of your database]
+```
+
+
 _This was not made by Winnie P._
