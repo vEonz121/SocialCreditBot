@@ -4,11 +4,11 @@
 Utilizes a social credits system to determine bad behavior among server members. Moderate your chat with something that actually works! 😃
 
 ## Table of Contents
-1. [Available Commands](#available_commands_💁‍)
-2. [How To Run](#how_to_run_👩‍)
-3. [Planned Features](#planned_features_👀)
-4. [Demo](#demo_👨‍🦽)
-5. [Requirements](#requirements_✔️)
+1. [Available Commands](#available-commands-%EF%B8%8F)
+2. [How To Run](#how-to-run-)
+3. [Planned Features](#planned-features-)
+4. [Demo](#demo-)
+5. [Requirements](#requirements-%EF%B8%8F)
 
 ## Available Commands 💁‍♂️
 > **Prefix is `$`**
