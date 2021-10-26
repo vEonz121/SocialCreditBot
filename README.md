@@ -48,4 +48,8 @@ DB_NAME= [paste the name of your database]
 ```
 
 
+## TODO 📝
+- [ ] Message poster earns credits by receiving reactions
+- [ ] Message poster loses credits by losing reactions
+
 _This was not made by Winnie P._
