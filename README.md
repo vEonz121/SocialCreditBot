@@ -9,6 +9,7 @@ Utilizes a social credits system to determine bad behavior among server members.
 3. [Planned Features](#planned-features-)
 4. [Demo](#demo-)
 5. [Requirements](#requirements-%EF%B8%8F)
+6. [To Do](#todo-)
 
 ## Available Commands 💁‍♂️
 > **Prefix is `$`**
@@ -27,10 +28,14 @@ lose  -   Lose social credits
 node run
 ```
 
-## Planned Features 👀
+## TODO 📝
 - [x] Register and track users while recording/adding a social credits record on the backend.
 - [x] Gain and lose social credits.
 - [x] Decrease social credits if users say disallowed words.
+- [ ] Message poster earns credits by receiving reactions.
+- [ ] Message poster loses credits by losing reactions.
+
+## Planned Features 👀
 - [ ] _Populate future bot features here._
 
 ## Demo 👨‍🦽
@@ -46,10 +51,5 @@ DB_USER= [paste your database username]
 DB_PWD= [paste your database password]
 DB_NAME= [paste the name of your database]
 ```
-
-
-## TODO 📝
-- [ ] Message poster earns credits by receiving reactions
-- [ ] Message poster loses credits by losing reactions
 
 _This was not made by Winnie P._
