@@ -41,7 +41,7 @@ client.on("messageCreate", (message) => {
   let discordTag = message.author.tag;
   let mention = "<@" + discordUID.toString() + ">";
 
-  if (message.content.toLowerCase().includes("nigga")) {
+  if (message.content.toLowerCase().includes("n word")) {
     db.connect(function (err) {
       if (err) throw err;
       var query = `SELECT ${ub_userID} FROM ${UserBal} WHERE ${ub_userID} = ${discordUID}`;
